@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095265500489",
+    "project_id": "amir-salar-theory-assignment-1",
+    "storage_bucket": "amir-salar-theory-assignment-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095265500489:android:175380155748fe7df36e98",
+        "android_client_info": {
+          "package_name": "com.example.theoryassignment1usingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095265500489-24vh841duktoi6nfp3iar1cn4adm19oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzeXWGuUPh4P3aKECyRMtTNBSDn6Oamko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095265500489-24vh841duktoi6nfp3iar1cn4adm19oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
